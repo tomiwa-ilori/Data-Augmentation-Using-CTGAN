@@ -1,0 +1,7 @@
+sdv
+ipynb
+pandas
+pytest
+random
+pydantic
+strictly-typed-pandas
